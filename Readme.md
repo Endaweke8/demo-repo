@@ -11,3 +11,5 @@ Please continue your struggel to see your challenge to the documet without many 
   3. install php
   4. then install composer
   5. then install what you want . This is the instruction that is given by most develper inorder to declare the follwing character
+  6. Follow the instruction
+  
